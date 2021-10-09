@@ -1,3 +1,4 @@
 # cgw
 cdn:
-https://cdn.jsdelivr.net/gh/romepeng/cgw/
+https://cdn.jsdelivr.net/gh/romepeng/cgw@main/
+
